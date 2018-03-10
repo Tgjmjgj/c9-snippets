@@ -147,7 +147,7 @@ define(function (require, exports, module) {
 
         /** Register the plugin **/
         register(null, {
-            "snippets": plugin
+            "asnippets": plugin
         });
     }
 });
